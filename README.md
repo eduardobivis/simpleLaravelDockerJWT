@@ -1,3 +1,5 @@
+Simple Laravel Docker Boiterplate (with JWT)
+
 ## Set Up
 
 - docker-compose up -d
